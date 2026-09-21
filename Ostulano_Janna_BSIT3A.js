@@ -36,7 +36,7 @@ const studentRecord = {
 
 const guestRecord = {
   id: "S002",
-  details: { name: "Junior" } 
+  details: { name: "Melben" } 
 };
 
 const allStudents = [...morningClass, ...afternoonClass]; 
