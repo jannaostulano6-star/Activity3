@@ -7,7 +7,7 @@ const SCHOOL_YEAR = "2026-2027";
 const MAX_LATE_MINUTES = 15;
 const DEDUCTION_PER_ABSENCE = 5;
 const BASE_GRADE = 100;
-const TEACHER_NAME = "Mr. Ortiz";
+const TEACHER_NAME = "Mr. Yuri Ortiz";
 const APP_TITLE = "Attendance Tracker";
 
 
