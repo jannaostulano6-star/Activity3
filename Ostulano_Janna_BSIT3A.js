@@ -1,6 +1,6 @@
 
 const SCHOOL_NAME = "Northwest Samar State University";
-const CLASS_ROOM = "Room 301";
+const CLASS_ROOM = "Room 401";
 const TOTAL_STUDENTS = 46;
 const PASSING_ATTENDANCE_RATE = 80;
 const SCHOOL_YEAR = "2026-2027";
