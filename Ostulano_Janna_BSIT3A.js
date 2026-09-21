@@ -81,7 +81,7 @@ const penalty = calcAbsentDeduction(absentCount);
 finalScore = calculateFinalScore(BASE_GRADE, penalty);
 const hasPassed = isPassing(attendanceRate);
 
-systemStatus = "Complete";
+systemStatus = "Completed";
 isSyncComplete = true;
 
 console.log(`--- ${APP_TITLE} for ${SCHOOL_NAME} ---`);                
