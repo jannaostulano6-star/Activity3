@@ -23,7 +23,7 @@ let isSyncComplete = false;
 let warningMessage = "None";
 
 const morningClass = ["Sarah", "Mae", "Cheska"];
-const afternoonClass = ["Marian", "Emma"];
+const afternoonClass = ["Darryl", "Emma"];
 
 const defaultConfig = { theme: "light", autoSave: true };
 const userConfig = { theme: "dark", language: "en" };
